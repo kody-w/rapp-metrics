@@ -1,3 +1,7 @@
+<!-- retired-notice:start -->
+> **Retired experiment, kept for reference.** The living project is [kody-w/RAPP](https://github.com/kody-w/RAPP).
+<!-- retired-notice:end -->
+
 <!-- (c) 2026 Kody Wildfeuer · part of the RAPP ecosystem (RAPP) -->
 
 # rapp-metrics
